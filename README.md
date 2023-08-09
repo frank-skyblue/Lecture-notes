@@ -1,4 +1,4 @@
-# Custom-notes
+# lecture-notes
 
 These are my custom-made notes from my favourite classes at the University of Toronto Scarborough. 
 
